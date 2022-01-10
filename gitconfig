@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = guy.mattheuwsen@gmail.com
+	name = GuyMattheuwsen
